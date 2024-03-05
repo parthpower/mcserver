@@ -1,0 +1,89 @@
+name = "mcserver modded"
+mc_version = "1.20.1"
+
+[jar]
+type = "forge"
+loader = "latest"
+
+[variables]
+PORT = "25565"
+
+[launcher]
+eula_args = true
+nogui = true
+memory = "4G"
+
+[markdown]
+files = ["README.md"]
+auto_update = true
+
+[options]
+success_line = "uwu"
+stop_command = ""
+
+[worlds.big]
+
+[[mods]]
+type = "modrinth"
+id = "farmers-delight-tfc"
+version = "wMEb11mo"
+
+[[mods]]
+type = "modrinth"
+id = "more-concrete"
+version = "xBAEvv9U"
+
+[[mods]]
+type = "modrinth"
+id = "botany-trees"
+version = "9KQ18caH"
+
+[[mods]]
+type = "modrinth"
+id = "botany-pots"
+version = "sCescu0C"
+
+[[mods]]
+type = "modrinth"
+id = "flowerseeds"
+version = "plLlRbcl"
+
+[[mods]]
+type = "modrinth"
+id = "lets-do-vinery"
+version = "bCufqzzM"
+
+[[mods]]
+type = "modrinth"
+id = "astikorcarts-redux"
+version = "UPCznZWj"
+
+[[mods]]
+type = "modrinth"
+id = "architectury-api"
+version = "1MKTLiiG"
+
+[[mods]]
+type = "modrinth"
+id = "terrafirmacraft"
+version = "9jMTzfup"
+
+[[mods]]
+type = "modrinth"
+id = "farmers-delight"
+version = "AxgOboGq"
+
+[[mods]]
+type = "modrinth"
+id = "do-api"
+version = "pyVKVeSf"
+
+[[mods]]
+type = "modrinth"
+id = "bookshelf-lib"
+version = "dH6uJvm7"
+
+[[mods]]
+type = "modrinth"
+id = "patchouli"
+version = "JMtc0mTS"
