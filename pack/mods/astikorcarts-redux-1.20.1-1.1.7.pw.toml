@@ -1,0 +1,17 @@
+name = "astikorcarts-redux-1.20.1-1.1.7"
+filename = "astikorcarts-redux-1.20.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mnLFouB0/versions/UPCznZWj/astikorcarts-redux-1.20.1-1.1.7.jar"
+hash = "da59628e6c923887a872be850c2167782a2f7bf65059022b3682097459c7d367bda3b98ce1992fde930db1289389f61276bed2cac30610b74f7fec3b81eca631"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "astikorcarts-redux"
+version = "UPCznZWj"

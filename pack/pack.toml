@@ -1,0 +1,14 @@
+name = "mcserver modded"
+version = "83472ed90c7ddbe32480a1cf869978f4d9e1a42e"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash = "e569835e806973305fd9a3269c17dc26c719215009d37068850748d8adaa7cf8"
+hash-format = "sha256"
+metafile = false
+preserve = false
+
+[versions]
+forge = "latest"
+minecraft = "1.20.1"

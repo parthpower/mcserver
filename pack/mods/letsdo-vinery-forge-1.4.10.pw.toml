@@ -1,0 +1,17 @@
+name = "letsdo-vinery-forge-1.4.10"
+filename = "letsdo-vinery-forge-1.4.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/bCufqzzM/letsdo-vinery-forge-1.4.10.jar"
+hash = "dd8d76e202f17c7b9f266e797ac183e1b65d4b3aa8f6824474dabeae5c99596d29dc06230e65b00c626238c17546044b4352dc929025859939abfac38934a4c0"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "lets-do-vinery"
+version = "bCufqzzM"

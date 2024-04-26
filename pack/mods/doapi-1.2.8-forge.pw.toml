@@ -1,0 +1,17 @@
+name = "doapi-1.2.8-forge"
+filename = "doapi-1.2.8-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/pyVKVeSf/doapi-1.2.8-forge.jar"
+hash = "a8aeb44a84de8ee0911ef301eaa8287183e11286e44c6e1e3a90c65a99a07ffe54c4b7a4a22ca99b5d51c76782ec033c81509278f8353311c58f12d389859a3e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "do-api"
+version = "pyVKVeSf"

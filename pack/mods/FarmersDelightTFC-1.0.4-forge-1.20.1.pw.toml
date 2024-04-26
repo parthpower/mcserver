@@ -1,0 +1,17 @@
+name = "FarmersDelightTFC-1.0.4-forge-1.20.1"
+filename = "FarmersDelightTFC-1.0.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WXhDTEXL/versions/wMEb11mo/FarmersDelightTFC-1.0.4-forge-1.20.1.jar"
+hash = "67b0b2a7926b8fd2b586fa82f01e0e4a56a7926cbce3943c5ddc905aa25ef0546b49175ecab28057cfb0e8c4f185159f37e82dda4f2180e2f8be8ebbdb858052"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "farmers-delight-tfc"
+version = "wMEb11mo"
