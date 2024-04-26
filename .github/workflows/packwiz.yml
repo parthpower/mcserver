@@ -3,7 +3,7 @@ name: Export Packwiz
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   packwiz-export:
