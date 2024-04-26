@@ -1,5 +1,7 @@
 # mcserver modded
 
+[![Export Packwiz](https://github.com/parthpower/mcserver/actions/workflows/packwiz.yml/badge.svg)](https://github.com/parthpower/mcserver/actions/workflows/packwiz.yml)
+[![Test server](https://github.com/parthpower/mcserver/actions/workflows/test.yml/badge.svg)](https://github.com/parthpower/mcserver/actions/workflows/test.yml)
 [![mcman badge](https://img.shields.io/badge/uses-mcman-purple?logo=github)](https://github.com/ParadigmMC/mcman)
 
 <!-- run 'mcman md' to update! -->
